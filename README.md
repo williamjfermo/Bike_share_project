@@ -3,7 +3,7 @@ This project is a part of the [Flatiron](http://https://flatironschool.com/) for
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The purpose of this project is to analyze the Trip History Data of Capital Bikeshare.  This will be my first solo project for Flatiron.
+The purpose of this project is to analyze the Trip History Data of Capital Bikeshare.  This will be my very first solo project for Flatiron.
 
 ### Methods Used
 * Time series analysis
